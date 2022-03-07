@@ -16,3 +16,7 @@
 - [Java](https://www.java.com/de/download/)
 - [Python3](https://www.python.org/downloads/)
 - [Node](https://nodejs.org/en/download/)
+- [Typescript](https://www.typescriptlang.org/download)
+
+## Too cool for school
+- [Spotify](https://www.spotify.com/de/download/windows/)
